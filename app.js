@@ -4,15 +4,9 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "Elliott";
 
 const CARDS = [
-  {
-    name: "Discord",
-    icon: "ri-discord-fill",
-    link: "https://discord.com/app",
-    color: "#5865F2",
-  },
   {
     name: "Reddit",
     icon: "ri-reddit-fill",
@@ -20,36 +14,14 @@ const CARDS = [
     color: "#FF4500",
   },
   {
-    name: "Figma",
-    icon: "ri-pen-nib-fill",
-    link: "https://www.figma.com/",
-  },
-  {
     name: "Github",
     icon: "ri-github-fill",
     link: "https://github.com/",
   },
   {
-    name: "Twitter",
-    icon: "ri-twitter-fill",
-    link: "https://twitter.com",
-    color: "#1DA1F2",
-  },
-  {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
-    color: "#ea4c89",
-  },
-  {
     name: "Hashnode",
     icon: "ri-newspaper-line",
     link: "https://hashnode.com/",
-  },
-  {
-    name: "CodeSandbox",
-    icon: "ri-braces-fill",
-    link: "https://codesandbox.io/dashboard/",
   },
   {
     name: "YouTube",
